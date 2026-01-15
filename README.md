@@ -22,4 +22,4 @@ and "Address" row titles to function
 
 >Run the script 
 
-```python ./Main.py```
+```python ./main.py```
